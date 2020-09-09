@@ -49,7 +49,14 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
  
 ```markdown
 
-Hello World!
+Den er meget kort, så er noget andet kode! 
+
+...
+
+```
+
+
+`Hello World!
 
 public class Hello {
     public static void main(String[] args) {
@@ -58,12 +65,7 @@ public class Hello {
 
     }
 }
-
-Den er meget kort, så er noget andet kode! 
-
-...
-
-```
+`
 
 <br />
 <br />
