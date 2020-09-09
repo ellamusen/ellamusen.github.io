@@ -16,7 +16,7 @@ Hvis du ikke kan fornemme det, så er jeg super excited for at komme i gang med 
 
 ### Hvem er jeg?
 
-Jeg har mange forskellige hobbier som jeg skifter lidt imellem, men dette er nogle af dem!
+Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men dette er nogle af dem!
 
 1. Strikke
 2. Musik
@@ -26,7 +26,12 @@ Jeg har mange forskellige hobbier som jeg skifter lidt imellem, men dette er nog
 6. Den spirituelle verden (healing og chakras osv.)
 7. Naturen 
 8. Nyde livet 
- 
+9. DYR!
+
+
+ <p align="center">
+  <img width="480" height="270" src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif ">
+</p>
  
 ```markdown
 **Jeg har jo også skrevet noget kode, som jeg har indsat her!**
