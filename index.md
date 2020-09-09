@@ -26,16 +26,18 @@ Som ny datamatiker ved jeg at alt kan virke overvældende i starten, men jeg har
 
 Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men dette er nogle af dem!
 
-1. Strikke
-2. Musik
-3. **Snacks** 
-4. Spille PlayStation med mine venner 
-5. Slappe af
-6. Den spirituelle verden (healing og chakras osv.)
+1. Strikke :womans_clothes:
+2. Musik :microphone: :notes:
+3. **Snacks og mad** :sushi: :hamburger: :chocolate_bar:
+4. Spille PlayStation med mine venner :video_game:
+5. Slappe af :relieved:
+6. Den spirituelle verden (healing og chakras osv.) :sun_with_face: :new_moon_with_face: :palm_tree: :crystal_ball:
 7. Naturen :deciduous_tree:
 8. Nyde livet :blossom:
-9. Sprog :dk:
-10. **DYR!** :feet:
+9. Sprog :es:
+10. Læse :book:
+11. Bruge tid med min kæreste :couple: :heart:
+12. **DYR!** :feet:
 
 <p align="center">
   <img width="480" height="280" src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif">
