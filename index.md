@@ -63,7 +63,7 @@ public class Hello {
 
 Den er meget kort, så er noget andet kode! 
 
-<br/>
+
 
 public class displaymessage1 {
 
@@ -76,7 +76,7 @@ public class displaymessage1 {
 
 }
 
-<br/>
+
 
 //Opgave 1.2
 public class displaymessage2 {
@@ -90,7 +90,7 @@ public class displaymessage2 {
 
 }
 
-<br/>
+
 
 //Opgave 1.3
 public class displaypattern {
@@ -104,7 +104,7 @@ public class displaypattern {
         }
     }
 
-<br/>
+
 
 //Opgave 1.4
 public class printatable {
@@ -121,7 +121,7 @@ public class printatable {
 
 }
 
-<br/>
+
 
 //Opgave 1.5
 public class computerexpressions {
@@ -135,7 +135,7 @@ public class computerexpressions {
 
 }
 
-<br/>
+
 
 //Opgave 1.6
 public class summationofaseries {
@@ -150,7 +150,7 @@ public class summationofaseries {
 
 }
 
-<br/>
+
 
 //Opgave 1.7
 public class approximatepi {
