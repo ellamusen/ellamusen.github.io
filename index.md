@@ -21,22 +21,17 @@ Jeg har mange forskellige hobbier som jeg skifter lidt imellem, men dette er nog
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Strikke
+2. Musik
+3. ***Snacks** 
+4. Spille PlayStation med mine venner 
+5. Slappe af
+6. Den spiirituelle verden (healing og chakras osv.)
+7. Naturen 
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 
 
