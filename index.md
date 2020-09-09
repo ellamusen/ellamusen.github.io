@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 1. Strikke
 2. Musik
-3. ***Snacks** 
+3. **Snacks** 
 4. Spille PlayStation med mine venner 
 5. Slappe af
 6. Den spiirituelle verden (healing og chakras osv.)
