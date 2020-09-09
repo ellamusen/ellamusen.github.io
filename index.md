@@ -34,10 +34,6 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
   <img width="480" height="280" src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif">
 </p>
 
- <p align="center">
-    <img width="400" height="257.5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTr-MCD1LiiaxC22iGJSEzVach-6D3uKqL3iQ&usqp=CAU">
- </p>
-
  
  **Jeg har jo også skrevet noget kode, som jeg har indsat her!**
  
@@ -58,5 +54,11 @@ Den er meget kort, så er noget andet kode!
 ...
 
 ```
+
+Og her er afslutningsvis en meme
+
+ <p align="center">
+    <img width="400" height="257.5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTr-MCD1LiiaxC22iGJSEzVach-6D3uKqL3iQ&usqp=CAU">
+ </p>
 
 
