@@ -40,7 +40,7 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
  <br />
  
 ```markdown
-### Jeg har jo også skrevet noget kode, som jeg har indsat her!
+**Jeg har jo også skrevet noget kode, som jeg har indsat her!**
 
 Hello World!
 
