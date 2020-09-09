@@ -28,9 +28,9 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
 6. Den spirituelle verden (healing og chakras osv.)
 7. Naturen 
 8. Nyde livet 
-9. DYR!
+9. **DYR!**
 
-![Image align="center"](https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif)
+![Image](https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif)
 
  
 ```markdown
