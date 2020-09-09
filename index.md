@@ -34,7 +34,9 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
   <img width="480" height="280" src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif">
 </p>
 
- 
+ <p align="center">
+    <iimg width="auto" height="auto" src="file:///Users/daniella/Desktop/Sk%C3%A6rmbillede%202020-09-09%20kl.%2017.12.36.png">
+ </p>
 
  
  **Jeg har jo også skrevet noget kode, som jeg har indsat her!**
