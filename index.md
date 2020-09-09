@@ -14,6 +14,9 @@ Du kan besøge min Github side [her](https://github.com/ellamusen).
 
 Hvis du ikke kan fornemme det, så er jeg super excited for at komme i gang med en ny uddannelse og forhåbenligt komme ud bagefter og få et job som jeg elsker! - Hvis det omhandler programmering, så kommer jeg **selvfølgelig** til at elske det ;D
 
+<br />
+<br />
+
 ### Hvem er jeg?
 
 Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men dette er nogle af dem!
