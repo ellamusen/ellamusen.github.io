@@ -6,8 +6,6 @@ Jeg går på datamatiker studiet i Næstved på Zealand Erhvervsakademi. Her til
 
 Du kan besøge min Github side [her](https://github.com/ellamusen).
 
-Som ny datamatiker ved jeg at alt kan virke overvældende i starten, men jeg har mod på udfordringerne. Men jeg har også en forventning til mig selv om jeg gennem studiet vil passe på mig selv og ikke blive for stresset, men i stedet bare gøre mit allerbedste, og så er det godt nok for mig! Jeg ønsker også at mine studiekammerater og jeg kan komme til hinanden for hjælp, da vi alle skal have det godt sammen og få en god uddannelse!
-
 ### Her er et billede af moi fra første skoledag
 
 <p align="center">
@@ -17,6 +15,8 @@ Som ny datamatiker ved jeg at alt kan virke overvældende i starten, men jeg har
 
 
 Hvis du ikke kan fornemme det, så er jeg super excited for at komme i gang med en ny uddannelse og forhåbenligt komme ud bagefter og få et job som jeg elsker! - Hvis det omhandler programmering, så kommer jeg **selvfølgelig** til at elske det ;D
+
+Som ny datamatiker ved jeg at alt kan virke overvældende i starten, men jeg har mod på udfordringerne. Men jeg har også en forventning til mig selv om jeg gennem studiet vil passe på mig selv og ikke blive for stresset, men i stedet bare gøre mit allerbedste, og så er det godt nok for mig! Jeg ønsker også at mine studiekammerater og jeg kan komme til hinanden for hjælp, da vi alle skal have det godt sammen og få en god uddannelse!
 
 <br />
 
@@ -61,6 +61,8 @@ Den er meget kort, så er noget andet kode!
 ...
 
 ```
+
+<br />
 <br />
 <br />
 
