@@ -30,7 +30,9 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
 8. Nyde livet 
 9. **DYR!**
 
-<div style="text-align:center"><img src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif" /></div>
+<p align="center">
+  <img width="460" height="300" src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif">
+</p>
 
 ![Image](https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif)
 
