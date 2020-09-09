@@ -32,10 +32,10 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
 4. Spille PlayStation med mine venner 
 5. Slappe af
 6. Den spirituelle verden (healing og chakras osv.)
-7. Naturen 
-8. Nyde livet 
-9. Sprog
-:feet: **DYR!**
+7. Naturen :deciduous_tree:
+8. Nyde livet :blossom:
+9. Sprog :dk:
+10. **DYR!** :feet:
 
 <p align="center">
   <img width="480" height="280" src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif">
