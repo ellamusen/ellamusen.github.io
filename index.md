@@ -18,6 +18,10 @@ Hvis du ikke kan fornemme det på billedet, så er jeg super excited for at komm
 
 Som ny datamatiker ved jeg at alt kan virke overvældende i starten, men jeg har mod på udfordringerne. Men jeg har også en forventning til mig selv om jeg gennem studiet vil passe på mig selv og ikke blive for stresset, men i stedet bare gøre mit allerbedste, og så er det godt nok for mig! Jeg ønsker også at mine studiekammerater og jeg kan komme til hinanden for hjælp, da vi alle skal have det godt sammen og få en god uddannelse!
 
+Jeg lever desuden efter dette quote, som jeg også håber vil hjælpe mig på studiet! 
+> It's not my responability to liive up to your idea of me
+
+
 <br />
 
 ### Hvem er jeg?
