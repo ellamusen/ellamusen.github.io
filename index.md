@@ -8,7 +8,11 @@ Du kan besøge min Github side [her](https://github.com/ellamusen).
 
 ### Her er et billede af moi 
 
-![imiage](https://l.messenger.com/l.php?u=https%3A%2F%2Fscontent-cph2-1.xx.fbcdn.net%2Fv%2Ft1.15752-0%2Fp280x280%2F118771378_737007906849128_8551629441213409181_n.jpg%3F_nc_cat%3D106%26_nc_sid%3Db96e70%26_nc_ohc%3DABXRkCyvOewAX_I9m_D%26_nc_ht%3Dscontent-cph2-1.xx%26tp%3D6%26oh%3Dd1ebd1459cc15ee36f38b4a96a085927%26oe%3D5F7FFEA5&h=AT03JQlbD-2wpehxgTYdiX38lzUEl_wpMU9U0Y8Dl2mNHxHoCnaijMIfBAJ8yvUWEBnVIAVdR_U41rDbtNaYYDe4F4_X9I6Iurxg6mHq-bkl_Qrf-Cm2MEQZ_iyNggB1rfH_G7BwML0)
+![imiage](https://scontent-cph2-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/118765186_737007996849119_3398789400409241586_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=P8xKNlrJO5sAX83VR3o&_nc_ht=scontent-cph2-1.xx&tp=6&oh=52288b8832558a4891cc0c5dd2c3d9bb&oe=5F7E443E)
+
+<p align="center">
+  <img width="460" height="300" src="https://scontent-cph2-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/118765186_737007996849119_3398789400409241586_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=P8xKNlrJO5sAX83VR3o&_nc_ht=scontent-cph2-1.xx&tp=6&oh=52288b8832558a4891cc0c5dd2c3d9bb&oe=5F7E443E">
+</p>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
