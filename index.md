@@ -49,7 +49,7 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
  
  **Jeg har jo også skrevet noget kode, som jeg har indsat her!**
  
-```markdown
+```java
 
 public class Hello {
     public static void main(String[] args) {
@@ -61,7 +61,7 @@ public class Hello {
 
 
 
-Den er meget kort, så er noget andet kode! 
+// Den er meget kort, så er noget andet kode! 
 
 
 
