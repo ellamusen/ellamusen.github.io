@@ -171,6 +171,105 @@ public class approximatepi {
 }
 
 
+//Opgave 1.8
+public class areaandperimeterofacirkel {
+
+    public static void main(String[] args) {
+
+        double radius = 5.5;
+
+        double perimeter = 2 * radius * Math.PI;
+
+        System.out.println(perimeter);
+
+
+        double area = radius * radius * Math.PI;
+
+        System.out.println(area);
+
+    }
+
+}
+
+
+//Opgave 1.9
+public class areaandperimeterofarectangel {
+
+    public static void main(String[] args) {
+
+        double width = 4.5;
+
+        double height = 7.9;
+
+        double area = width * height;
+
+        System.out.println(area);
+
+    }
+
+}
+
+
+//Opgave 1.10
+public class averagespeedinmiles {
+
+    private static double kilometer = 14.0;
+    private static double mil = kilometer / 1.6;
+
+    public static void main(String[] strings) {
+
+        double formula = (45.5 * 60.0 + 30.0) / (60.0 * 60.0);
+        double milesPerHour = mil / formula;
+
+        System.out.println(milesPerHour);
+    }
+
+}
+
+
+//Opgave 1.11
+public class populationproject {
+
+    public static void main(String[] args) {
+
+        int time = 3600 * 24 * 365;
+        int born = time / 7;
+        int death = time / 13;
+        int immigrant = time / 45;
+
+        int current_population = 312032486;
+        int population = born + immigrant - death;
+
+        for (int i = 1; i <= 5; i++) {
+            current_population = current_population + population;
+            System.out.println(i + " year population is : " + current_population);
+        }
+    }
+}
+
+
+//Opgave 1.12
+public class averagespeedinkilometers {
+
+    public static void main(String[] args) {
+
+        double miles = 24.0;
+        double kilometer = miles * 1.6;
+
+        double formula = (100.0 * 60.0 + 35.0) / (60.0 * 60.0);
+        double kilometerPerHour = kilometer / formula;
+
+        System.out.println(kilometerPerHour);
+
+    }
+
+}
+
+
+//Opgave 1.13
+
+
+
 ```
 
 
