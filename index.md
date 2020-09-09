@@ -78,6 +78,7 @@ public class displaymessage1 {
 
 <br />
 
+//Opgave 1.2
 public class displaymessage2 {
 
     public static void main(String[] args) {
@@ -89,6 +90,85 @@ public class displaymessage2 {
 
 }
 
+<br />
+
+//Opgave 1.3
+public class displaypattern {
+
+        public static void main(String[] args) {
+
+            System.out.println("   J    A   V     V  A ");
+            System.out.println("   J   A A   V   V  A A");
+            System.out.println("J  J  AAAAA   V V  AAAAA");
+            System.out.println(" JJ  A     A   V  A     A");
+        }
+    }
+
+<br />
+
+//Opgave 1.4
+public class printatable {
+
+    public static void main(String[] args) {
+
+        System.out.println("a    a^2    a^3");
+        System.out.println("1    1      1");
+        System.out.println("2    4      8");
+        System.out.println("3    9      27");
+        System.out.println("4    16     64");
+
+    }
+
+}
+
+<br />
+
+//Opgave 1.5
+public class computerexpressions {
+
+    public static void main(String[] args) {
+
+        System.out.println("The result of ((9.5 x 4.5) - (2.5 x3)) / (45.5 - 3.5) is");
+        System.out.println(((9.5 * 4.5) - (2.5 * 3)) / (45.5 - 3.5));
+
+    }
+
+}
+
+<br />
+
+//Opgave 1.6
+public class summationofaseries {
+
+
+    public static void main(String[] args) {
+
+        System.out.println("The result of 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 is");
+        System.out.println(1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9);
+
+    }
+
+}
+
+<br />
+
+//Opgave 1.7
+public class approximatepi {
+
+    public static void main(String[] args) {
+
+        double pi = 4 * (1.0 - (1.0/3 + 1.0/5 - 1.0/7 + 1.0/9 - 1.0/11));
+
+        System.out.println(pi);
+
+        double pies = 4 * (1.0 - 1.0/3 + 1.0/5 - 1.0/7 + 1.0/9 - 1.0/11 + 1.0/13);
+
+        System.out.println(pies);
+
+
+    }
+
+}
 
 
 ```
