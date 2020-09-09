@@ -2,7 +2,10 @@
 
 På denne hjemmeside vil jeg fortælle lidt om mig selv! 
 
-Jeg går på datamatiker studiet i Næstved på Zealand Erhvervsakademi. 
+Jeg går på datamatiker studiet i Næstved på Zealand Erhvervsakademi. Her tilhører jeg årgangen 20/23. 
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ellamusen/ellamusen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
