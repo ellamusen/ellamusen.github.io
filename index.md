@@ -30,14 +30,14 @@ Jeg har mange forskellige hobbier som jeg skifter lidt imellem, men dette er nog
 ```markdown
 Jeg har jo også skrevet noget kode, som jeg har indsat her!
 
-public class Hello {
+`public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World");
 
 
     }
 }
-
+`
 
 ```
 
