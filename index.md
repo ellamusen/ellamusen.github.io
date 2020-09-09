@@ -35,7 +35,7 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
 </p>
 
  <p align="center">
-    <iimg width="auto" height="auto" src="file:///Users/daniella/Desktop/Sk%C3%A6rmbillede%202020-09-09%20kl.%2017.12.36.png">
+    <img width="200" height="200" src="file:///Users/daniella/Desktop/Sk%C3%A6rmbillede%202020-09-09%20kl.%2017.12.36.png">
  </p>
 
  
