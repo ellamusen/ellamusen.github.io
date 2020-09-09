@@ -26,7 +26,7 @@ Som ny datamatiker ved jeg at alt kan virke overvældende i starten, men jeg har
 
 Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men dette er **nogle** af dem!
 
-1. Strikke 👚
+1. Strikke 🧶 🧦
 2. Musik 🎤 🎼 
 3. **Snacks og mad** 🍣 🍔 🍫
 4. Spille PlayStation med mine venner 🎮 
