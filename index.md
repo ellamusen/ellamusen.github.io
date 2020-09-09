@@ -46,7 +46,7 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
  <br />
  <br />
  
- ## Min kode
+ 
  **Jeg har jo også skrevet noget kode, som jeg har indsat her!**
  
 ```markdown
