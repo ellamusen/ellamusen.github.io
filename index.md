@@ -18,9 +18,6 @@ Hvis du ikke kan fornemme det, så er jeg super excited for at komme i gang med 
 
 Jeg har mange forskellige hobbier som jeg skifter lidt imellem, men dette er nogle af dem!
 
-```markdown
-Syntax highlighted code block
-
 1. Strikke
 2. Musik
 3. **Snacks** 
@@ -28,10 +25,22 @@ Syntax highlighted code block
 5. Slappe af
 6. Den spiirituelle verden (healing og chakras osv.)
 7. Naturen 
+8. Nyde livet 
 
-**Bold** and _Italic_ and `Code` text
+```markdown
+Jeg har jo også skrevet noget kode, som jeg har indsat her!
 
-[Link](url) and ![Image](src)
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+
+
+    }
+}
+
+
 ```
 
+**Bold** and _Italic_ and `Code` text
+[Link](url) and ![Image](src)
 
