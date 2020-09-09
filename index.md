@@ -51,8 +51,6 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
  
 ```markdown
 
-Hello World!
-
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello World");
