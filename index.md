@@ -52,6 +52,4 @@ Den er meget kort, så er noget andet kode!
 
 ```
 
-**Bold** and _Italic_ and `Code` text
-[Link](url) and ![Image](src)
 
