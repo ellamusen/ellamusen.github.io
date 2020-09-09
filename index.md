@@ -12,7 +12,7 @@ Du kan besøge min Github side [her](https://github.com/ellamusen).
   <img width="594" height="793" src="https://scontent-cph2-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/118765186_737007996849119_3398789400409241586_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=P8xKNlrJO5sAX83VR3o&_nc_ht=scontent-cph2-1.xx&tp=6&oh=52288b8832558a4891cc0c5dd2c3d9bb&oe=5F7E443E">
 </p>
 
-Hvis du ikke kan fornemme det, så er jeg super excited for at komme i gang med en ny uddannelse og forhåbenligt komme ud bagefter og få et job som jeg elsker! - Hvis det omhandler programmering, så kommer jeg **selvfølgelig** til at elske det;D
+Hvis du ikke kan fornemme det, så er jeg super excited for at komme i gang med en ny uddannelse og forhåbenligt komme ud bagefter og få et job som jeg elsker! - Hvis det omhandler programmering, så kommer jeg **selvfølgelig** til at elske det ;D
 
 ### Hvem er jeg?
 
@@ -23,14 +23,15 @@ Jeg har mange forskellige hobbier som jeg skifter lidt imellem, men dette er nog
 3. **Snacks** 
 4. Spille PlayStation med mine venner 
 5. Slappe af
-6. Den spiirituelle verden (healing og chakras osv.)
+6. Den spirituelle verden (healing og chakras osv.)
 7. Naturen 
 8. Nyde livet 
-
+ 
+ 
 ```markdown
-Jeg har jo også skrevet noget kode, som jeg har indsat her!
+**Jeg har jo også skrevet noget kode, som jeg har indsat her!**
 
-_Hello World_
+Hello World!
 
 public class Hello {
     public static void main(String[] args) {
@@ -39,6 +40,10 @@ public class Hello {
 
     }
 }
+
+Den er meget kort, så er noget andet kode! 
+
+...
 
 ```
 
