@@ -43,8 +43,8 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
   <img width="480" height="280" src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif">
 </p>
 
- <br />
- <br />
+ <br/>
+ <br/>
  
  
  **Jeg har jo også skrevet noget kode, som jeg har indsat her!**
@@ -63,7 +63,7 @@ public class Hello {
 
 Den er meget kort, så er noget andet kode! 
 
-<br />
+<br/>
 
 public class displaymessage1 {
 
@@ -76,7 +76,7 @@ public class displaymessage1 {
 
 }
 
-<br />
+<br/>
 
 //Opgave 1.2
 public class displaymessage2 {
@@ -90,7 +90,7 @@ public class displaymessage2 {
 
 }
 
-<br />
+<br/>
 
 //Opgave 1.3
 public class displaypattern {
@@ -104,7 +104,7 @@ public class displaypattern {
         }
     }
 
-<br />
+<br/>
 
 //Opgave 1.4
 public class printatable {
@@ -121,7 +121,7 @@ public class printatable {
 
 }
 
-<br />
+<br/>
 
 //Opgave 1.5
 public class computerexpressions {
@@ -135,7 +135,7 @@ public class computerexpressions {
 
 }
 
-<br />
+<br/>
 
 //Opgave 1.6
 public class summationofaseries {
@@ -150,7 +150,7 @@ public class summationofaseries {
 
 }
 
-<br />
+<br/>
 
 //Opgave 1.7
 public class approximatepi {
