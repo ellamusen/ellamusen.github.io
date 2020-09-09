@@ -12,11 +12,11 @@ Du kan besøge min Github side [her](https://github.com/ellamusen).
   <img width="594" height="793" src="https://scontent-cph2-1.xx.fbcdn.net/v/t1.15752-9/p1080x2048/118765186_737007996849119_3398789400409241586_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=P8xKNlrJO5sAX83VR3o&_nc_ht=scontent-cph2-1.xx&tp=6&oh=52288b8832558a4891cc0c5dd2c3d9bb&oe=5F7E443E">
 </p>
 
-Hvis du ikke kan fornemme det, så er jeg super excited for at komme i gang med en ny uddannelse og forhåbenligt komme ud bagefter og få et job som jeg elsker! (Hvis det omhandler programmering, så kommer jeg selvfølgelig til at elske det;D)
+Hvis du ikke kan fornemme det, så er jeg super excited for at komme i gang med en ny uddannelse og forhåbenligt komme ud bagefter og få et job som jeg elsker! - Hvis det omhandler programmering, så kommer jeg **selvfølgelig** til at elske det;D
 
-### Markdown
+### Hvem er jeg?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Jeg har mange forskellige hobbier som jeg skifter lidt imellem, men dette er nogle af dem!
 
 ```markdown
 Syntax highlighted code block
