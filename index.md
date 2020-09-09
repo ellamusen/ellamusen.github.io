@@ -52,28 +52,23 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
 ```java
 
 public class Hello {
+
     public static void main(String[] args) {
         System.out.println("Hello World");
-
-
     }
 }
 
 
 
-// Den er meget kort, så er noget andet kode! 
-
-
-
+//Opgaver 1.1
 public class displaymessage1 {
 
-    //Opgave 1.1
     public static void main(String[] args) {
+    
         System.out.println("Welcome to Java");
         System.out.println("Welcome to Computer Science");
         System.out.println("Programming is fun");
     }
-
 }
 
 
@@ -84,10 +79,10 @@ public class displaymessage2 {
     public static void main(String[] args) {
 
         for (int i = 0; i < 5; i++) {
+        
             System.out.println("Welcome to Java");
         }
     }
-
 }
 
 
@@ -118,7 +113,6 @@ public class printatable {
         System.out.println("4    16     64");
 
     }
-
 }
 
 
@@ -132,7 +126,6 @@ public class computerexpressions {
         System.out.println(((9.5 * 4.5) - (2.5 * 3)) / (45.5 - 3.5));
 
     }
-
 }
 
 
@@ -140,14 +133,12 @@ public class computerexpressions {
 //Opgave 1.6
 public class summationofaseries {
 
-
     public static void main(String[] args) {
 
         System.out.println("The result of 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 is");
         System.out.println(1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9);
 
     }
-
 }
 
 
@@ -158,17 +149,14 @@ public class approximatepi {
     public static void main(String[] args) {
 
         double pi = 4 * (1.0 - (1.0/3 + 1.0/5 - 1.0/7 + 1.0/9 - 1.0/11));
-
         System.out.println(pi);
 
         double pies = 4 * (1.0 - 1.0/3 + 1.0/5 - 1.0/7 + 1.0/9 - 1.0/11 + 1.0/13);
-
         System.out.println(pies);
 
-
     }
-
 }
+
 
 
 //Opgave 1.8
@@ -179,17 +167,14 @@ public class areaandperimeterofacirkel {
         double radius = 5.5;
 
         double perimeter = 2 * radius * Math.PI;
-
         System.out.println(perimeter);
 
 
         double area = radius * radius * Math.PI;
-
         System.out.println(area);
-
     }
-
 }
+
 
 
 //Opgave 1.9
@@ -198,16 +183,14 @@ public class areaandperimeterofarectangel {
     public static void main(String[] args) {
 
         double width = 4.5;
-
         double height = 7.9;
 
         double area = width * height;
 
         System.out.println(area);
-
     }
-
 }
+
 
 
 //Opgave 1.10
@@ -223,8 +206,8 @@ public class averagespeedinmiles {
 
         System.out.println(milesPerHour);
     }
-
 }
+
 
 
 //Opgave 1.11
@@ -241,11 +224,13 @@ public class populationproject {
         int population = born + immigrant - death;
 
         for (int i = 1; i <= 5; i++) {
+        
             current_population = current_population + population;
             System.out.println(i + " year population is : " + current_population);
         }
     }
 }
+
 
 
 //Opgave 1.12
@@ -260,10 +245,9 @@ public class averagespeedinkilometers {
         double kilometerPerHour = kilometer / formula;
 
         System.out.println(kilometerPerHour);
-
     }
-
 }
+
 
 
 //Opgave 1.13
@@ -272,20 +256,21 @@ public class algebra {
     public static void main(String[] args) {
 
         double a, b, c, d, e, f;
+        
         a = 3.4;
         b = 50.2;
         c = 2.1;
         d = 0.55;
         e = 44.5;
         f = 5.9;
+        
         double x = (e*d - b*f) / (a*d - b*c);
         double y = (a*f - e*c) / (a*d - b*c);
 
         System.out.printf("x=%f, y=%f", x, y );
-
     }
-
 }
+
 
 
 ```
