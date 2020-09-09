@@ -54,8 +54,9 @@ Den er meget kort, så er noget andet kode!
 ...
 
 ```
-
-<center>Og her er afslutningsvis en meme</center>
+<p align="center">
+Og her er afslutningsvis en meme
+</p>
 
  <p align="center">
     <img width="400" height="257.5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTr-MCD1LiiaxC22iGJSEzVach-6D3uKqL3iQ&usqp=CAU">
