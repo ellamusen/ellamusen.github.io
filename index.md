@@ -6,6 +6,8 @@ Jeg går på datamatiker studiet i Næstved på Zealand Erhvervsakademi. Her til
 
 Du kan besøge min Github side [her](https://github.com/ellamusen).
 
+Som ny datamatiker ved jeg at alt kan virke overvældende i starten, men jeg har mod på udfordringerne. Men jeg har også en forventning til mig selv om jeg gennem studiet vil passe på mig selv og ikke blive for stresset, men i stedet bare gøre mit allerbedste, og så er det godt nok for mig! Jeg ønsker også at mine studiekammerater og jeg kan komme til hinanden for hjælp, da vi alle skal have det godt sammen og få en god uddannelse!
+
 ### Her er et billede af moi fra første skoledag
 
 <p align="center">
@@ -30,7 +32,8 @@ Jeg har mange forskellige hobbier og interesser som jeg skifter lidt mellem, men
 6. Den spirituelle verden (healing og chakras osv.)
 7. Naturen 
 8. Nyde livet 
-9. **DYR!**
+9. Sprog
+10. **DYR!**
 
 <p align="center">
   <img width="480" height="280" src="https://media0.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=ecf05e47ec3355500761a51fe234ed795d1b1b64a8c8f346&rid=giphy.gif">
