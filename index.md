@@ -58,7 +58,7 @@ Den er meget kort, så er noget andet kode!
 <br />
 
 <p align="center">
-Og her er afslutningsvis en meme
+  <b>Og her er afslutningsvis en meme</b>
 </p>
 
  <p align="center">
